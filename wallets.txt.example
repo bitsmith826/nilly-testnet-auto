@@ -1,0 +1,4 @@
+# Masukkan satu private key per baris (dengan 0x atau tanpa 0x)
+# Contoh:
+# 0x0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+# 0x9876543210fedcba9876543210fedcba9876543210fedcba9876543210fedcba

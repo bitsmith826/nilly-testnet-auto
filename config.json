@@ -1,0 +1,34 @@
+{
+  "chainId": 84532,
+  "chainName": "Base Sepolia",
+  "rpc": "https://sepolia.base.org",
+  "explorer": "https://sepolia.basescan.org",
+  "quote": "ETH",
+  "factory": "0x0D8bFF4Dc1a5b1CB9Df28F3a54302ABa6c3b5488",
+  "cto": "0x5C89078004741875F92954521f3bBEDBf4F250E1",
+  "splitFactory": "0xEa474799fD169eb59C5b83f51280Eab8c1bF63fc",
+  "startBlock": 59590981,
+  "curveSupply": "793100000000000000000000000",
+  "totalSupply": "1000000000000000000000000000",
+  "router": "0xc7ed5f570f6Ca50078B0B359943Cd57338De57B5",
+  "rpcUpstreams": [
+    "https://sepolia.base.org",
+    "https://base-sepolia-rpc.publicnode.com"
+  ],
+  "wnative": "0x4200000000000000000000000000000000000006",
+  "timelock": "0x5481fA38aE515EF9fe692a6f4Ca2EeaDF377355f",
+  "pointsExclude": [
+    "0x512109beec16d887ee9c70548dd0a92cf5716b9f",
+    "0x64d80f621637d2dc646984a29eaa4d5e6643e7c8",
+    "0x9dbda9537c473813346252bf95dab17f9c6dea51",
+    "0xd028ef4054bd5d0084ebc177be8be205dcff25c4",
+    "0xee9263e792c1c9c1f590c6a5deb4e9723ed27316"
+  ],
+  "hideMarkets": [
+    "0x0b87a6c03ecdf97d80d980e04ce40ea7903243b8",
+    "0x6ef511a152c63f324fc24a0aaa16d889f16aaa5f",
+    "0xdb75060c13a0a27129e8dda0416e5c66f5394e9b"
+  ],
+  "indexVersion": 2,
+  "publicBase": "https://testnet.nilly.fun"
+}
